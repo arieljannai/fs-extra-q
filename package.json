@@ -1,21 +1,21 @@
 {
-  "name": "fs-extra-promise",
+  "name": "fs-extra-q-promise",
   "version": "0.4.0",
-  "description": "Node file system library and fs-extra module promisified with bluebird",
+  "description": "Node file system library and fs-extra module promisified with Q",
   "main": "./lib/",
   "author": {
     "name": "Overlook Motel"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/overlookmotel/fs-extra-promise.git"
+    "url": "https://github.com/arieljannai/fs-extra-q-promise.git"
   },
   "bugs": {
-    "url": "https://github.com/overlookmotel/fs-extra-promise/issues"
+    "url": "https://github.com/arieljannai/fs-extra-q-promise/issues"
   },
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "bluebird": "^3.4.0"
+    "q": "^1.4.1"
   },
   "devDependencies": {
     "mocha": "^2.5.3",
@@ -30,7 +30,7 @@
     "fs-extra",
     "file",
     "promise",
-    "bluebird",
+    "q",
     "extend"
   ],
   "scripts": {
