@@ -1,17 +1,17 @@
 {
-  "name": "fs-extra-q-promise",
+  "name": "fs-extra-q",
   "version": "0.4.0",
   "description": "Node file system library and fs-extra module promisified with Q",
   "main": "./lib/",
   "author": {
-    "name": "Overlook Motel"
+    "name": "Ariel Jannai"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arieljannai/fs-extra-q-promise.git"
+    "url": "https://github.com/arieljannai/fs-extra-q.git"
   },
   "bugs": {
-    "url": "https://github.com/arieljannai/fs-extra-q-promise/issues"
+    "url": "https://github.com/arieljannai/fs-extra-q/issues"
   },
   "dependencies": {
     "fs-extra": "^0.30.0",
